@@ -1,4 +1,4 @@
-<h2> Hi, I'm Pascal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Pascal!</h2>
 <img align='right' src="https://cdn.discordapp.com/attachments/1168349370840780840/1207101681909764116/83749737.jpg?ex=65de6c0b&is=65cbf70b&hm=abb3f3c62072240079a00368b6e729c4e063a485cf68bf444d69b59e4ec76810&****" width="230">
 </em></p>
 
