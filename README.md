@@ -8,8 +8,9 @@
 
 ```javascript
 const me = {
-  code: [Javascript, HTML, CSS, Python, Lua, C#, Learning C++],
-  tools: [Visual Studio (Code), Ida Pro, Reclass, ...],
+ code: [Javascript, HTML, CSS, Python, Lua, C#, Learning C++],
+ current state: "School",
+ tools: [Visual Studio (Code), Ida Pro, Reclass, ...],
  challenge: "Getting better at coding!"
 }
 ```
