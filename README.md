@@ -9,7 +9,7 @@
 ```javascript
 const me = {
  code: [Javascript, HTML, CSS, Python, Lua, C#, Learning C++],
- current state: "School",
+ current_state: "School",
  tools: [Visual Studio (Code), Ida Pro, Reclass, ...],
  challenge: "Getting better at coding!"
 }
