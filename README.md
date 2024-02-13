@@ -15,6 +15,6 @@ const me = {
 }
 ```
 
-<em><b>I love to code stuff (even with different people)</b> </b> :)</em>
+<em><b>I love to code and reverse Stuff (even with different people)</b> </b> :)</em>
 
 ---
