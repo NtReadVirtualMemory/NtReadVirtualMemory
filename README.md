@@ -1,4 +1,4 @@
-<img align='right' src="https://cdn.discordapp.com/attachments/1220479654398525481/1230585278985408544/83749737.jpg?ex=6622b759&is=662165d9&hm=0643b403ff09506cd0ef6a50ac3dee11c72c017d2cf24535fb9460e6cec987a5&****" width="230">
+<img align='right' src="**https://cdn.discordapp.com/attachments/1264658262536622203/1267001390618644500/83749737.jpg?ex=66a7327f&is=66a5e0ff&hm=8ecf64be1f2e9422d7c344dc2a7992cff97a468f478b3cd817afb2628da14003&**" width="230">
 </em></p>
 
 Javascript, HTML, CSS, Python, Lua, C#, Learning C++
