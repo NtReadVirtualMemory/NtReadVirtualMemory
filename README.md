@@ -1,8 +1,6 @@
 <img align='right' src="**https://cdn.discordapp.com/attachments/1264658262536622203/1267001390618644500/83749737.jpg?ex=66a7327f&is=66a5e0ff&hm=8ecf64be1f2e9422d7c344dc2a7992cff97a468f478b3cd817afb2628da14003&**" width="230">
 </em></p>
 
-Javascript, HTML, CSS, Python, Lua, C#, Learning C++
-
 [Discord: ntopenprocess](discord.com/users/1244365299181031527)
 
 ---
