@@ -4,16 +4,7 @@
 
 [Discord: ntopenprocess](discord.com/users/1244365299181031527)
 
-### A little more about me...  
-
-```javascript
-const me = {
- code: [Javascript, HTML, CSS, Python, Lua, C#, Learning C++],
- current_state: "School",
- tools: [Visual Studio (Code), Ida Pro, Reclass, Dnspy, VM-Ware, ...],
- challenge: "Getting better at coding!"
-}
-```
+Javascript, HTML, CSS, Python, Lua, C#, Learning C++
 
 <em><b>I love to code and reverse Stuff</em>
 
